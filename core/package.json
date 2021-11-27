@@ -8,5 +8,12 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.7.0"
+  },
+  "dependencies": {
+    "@truffle/contract": "^4.3.42",
+    "@uniswap/v3-core": "^1.0.0"
+  }
 }
